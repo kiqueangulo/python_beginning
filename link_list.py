@@ -74,10 +74,8 @@ class LinkedList:
                 return
         
         prev_node.reference = current_node.reference
-        
 
-
-node1 = Node()
+# Test
 
 linked_list1 = LinkedList()
 
